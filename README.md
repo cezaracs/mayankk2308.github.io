@@ -23,7 +23,6 @@ At the heart of every programmer's adventure are their projects, and some of min
 I always wonder - is it better to have many skills that you are good at, or a few that you excel at. Since I found it difficult to answer, I just thought - *"why not learn the stuff I need as I go along my adventure - and do it thoroughly well"* - thinking just like the **KISS (Keep It Simple Stupid)** philosophy.
 As mentioned earlier, I started off with **Java**, and have since learnt **Swift**, **Scala**, **Python**, and **C**. I am fairly confident in the former two, and have adequate expertise in the rest. Beyond programming, I have tremendous experience with **Final Cut Pro** and **Motion** for video editing, **Affinity Photo** and **Adobe Photoshop** for some occasional photo editing, and **Audacity** for some rare audio work.
 
-
 ## Contact
 You must be quite a reader to have come so far, and you have my gratitude for that. Thank you.
 You can, of course, `checkout` (sorry couldn't resist) some of my work at **[GitHub](https://github.com/mayankk2308)**.
