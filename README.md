@@ -1,5 +1,5 @@
-# Mayank Kumar
-Welcome to my portfolio! Glad to have you here.
+# Welcome
+Glad to have you here.
 
 A *bit* about myself: I love **software applications** and the possibilities and capabilities they unlock for both users and developers to accomplish tasks, be productive, and _**create**_. My programming adventure began when I was **13**, kicking off things with the _easy-to-understand-but-a-bit-too-verbose_ **Java** programming language. Fast forward **4 years**, and Apple had introduced **Swift**, and I thought it was a good and clean opportunity to develop for **Apple platforms**. In a sense, the past **3 years** in my programming adventure have been rewarding, not only in the sense of gaining higher technical ability alone, but also the value and essence of working as a team and collaborating with effectiveness and efficiency. Beyond programming, I also enjoy video editing, and have been creating **anime music videos (AMVs)** for the last 3 years. You can find them on my **[YouTube Channel](https://youtube.com/animemusicvideosx)**.
 
